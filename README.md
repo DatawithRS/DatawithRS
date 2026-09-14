@@ -62,8 +62,6 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=DatawithRS&color=3B8686&style=flat-square&label=Profile+views)
-
 <img src="assets/footer-banner.png" width="100%"/>
 
 </div>
