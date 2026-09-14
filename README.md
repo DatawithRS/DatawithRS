@@ -49,14 +49,35 @@
 
 ### 📌 Featured projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[PowerBI-Sales-Analytics](https://github.com/DatawithRS/PowerBI-Sales-Analytics)**
+<br/>E-commerce sales analytics dashboard with customer/product/order data modeling
+<br/>`Power BI` `DAX`
+
+<img src="https://raw.githubusercontent.com/DatawithRS/PowerBI-Sales-Analytics/main/screenshots/executive-overview.png" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+**[superstore-sales-dashboard-powerbi](https://github.com/DatawithRS/superstore-sales-dashboard-powerbi)**
+<br/>Retail sales dashboard on the classic Superstore dataset
+<br/>`Power BI` `DAX`
+
+<img src="https://raw.githubusercontent.com/DatawithRS/superstore-sales-dashboard-powerbi/main/dashboard.png" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 | Project | What it does | Stack |
 |---|---|---|
 | [multichannel-ecommerce-analytics](https://github.com/DatawithRS/multichannel-ecommerce-analytics) | End-to-end commercial analytics across 5 channels & 14 tables — SQL, Python (RFM, cohorts), Power BI | `SQL` `Python` `Power BI` |
 | [applied-ml-notebooks](https://github.com/DatawithRS/applied-ml-notebooks) | Telco customer churn analysis + plant leaf disease image classification | `Python` `TensorFlow` `ML` |
 | [chest-xray-pneumonia-cnn](https://github.com/DatawithRS/chest-xray-pneumonia-cnn) | CNN classifying chest X-rays as Normal vs. Pneumonia (Keras/TensorFlow) | `Deep Learning` `Computer Vision` |
-| [PowerBI-Sales-Analytics](https://github.com/DatawithRS/PowerBI-Sales-Analytics) | E-commerce sales analytics dashboard with customer/product/order data modeling | `Power BI` `DAX` |
 | [Clustered-HR-Data](https://github.com/DatawithRS/Clustered-HR-Data) | HR analytics dashboard tracking attrition, promotion & retrenchment risk | `Power BI` `DAX` |
-| [superstore-sales-dashboard-powerbi](https://github.com/DatawithRS/superstore-sales-dashboard-powerbi) | Retail sales dashboard on the classic Superstore dataset | `Power BI` `DAX` |
 
 ---
 
