@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,100:3B8686&height=200&section=header&text=DatawithRS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Data%20%26%20AI%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Decisions&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+<img src="assets/header-banner.png" width="100%"/>
 
 </div>
 
@@ -64,6 +64,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=DatawithRS&color=3B8686&style=flat-square&label=Profile+views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B8686,100:0B486B&height=100&section=footer" width="100%"/>
+<img src="assets/footer-banner.png" width="100%"/>
 
 </div>
