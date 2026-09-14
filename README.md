@@ -35,6 +35,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-shinde-27294a402/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ### 👋 About me
 
 - 📊 Junior Data & AI Analyst turning messy raw data into dashboards, models, and decisions
