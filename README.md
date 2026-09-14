@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-shinde-27294a402/">
+  <a href="https://www.linkedin.com/in/rohit-shinde-data/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -84,6 +84,7 @@
 | [applied-ml-notebooks](https://github.com/DatawithRS/applied-ml-notebooks) | Telco customer churn analysis + plant leaf disease image classification | `Python` `TensorFlow` `ML` |
 | [chest-xray-pneumonia-cnn](https://github.com/DatawithRS/chest-xray-pneumonia-cnn) | CNN classifying chest X-rays as Normal vs. Pneumonia (Keras/TensorFlow) | `Deep Learning` `Computer Vision` |
 | [Clustered-HR-Data](https://github.com/DatawithRS/Clustered-HR-Data) | HR analytics dashboard tracking attrition, promotion & retrenchment risk | `Power BI` `DAX` |
+| [mumbai-smart-city-energy-analysis](https://github.com/DatawithRS/mumbai-smart-city-energy-analysis) | MSc dissertation: 101-respondent survey on household energy behavior in Mumbai — descriptive stats, correlation analysis, smart-city policy recommendations | `Statistics` `Survey Research` `Python` |
 
 ---
 
