@@ -62,20 +62,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DatawithRS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatawithRS&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=DatawithRS&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
-
-</div>
-
-<!-- snake animation: populated automatically by .github/workflows/snake.yml after the first Action run -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/DatawithRS/DatawithRS/output/github-contribution-grid-snake.svg" width="90%" alt="contribution snake"/>
-</div>
-
-<div align="center">
-
 ![Profile views](https://komarev.com/ghpvc/?username=DatawithRS&color=3B8686&style=flat-square&label=Profile+views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B8686,100:0B486B&height=100&section=footer" width="100%"/>
