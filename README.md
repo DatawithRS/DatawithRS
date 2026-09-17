@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=3B8686&center=true&vCenter=true&width=560&lines=Power+BI+%2B+DAX+%2B+SQL+%2B+Python;Data+%2B+AI+Analyst+%7C+Predictive+%26+BI+Analytics;RFM%2C+cohorts%2C+churn+%26+retail+analytics;Always+learning+%E2%80%94+always+shipping+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=3B8686&center=true&vCenter=true&width=560&lines=Power+BI+%2B+DAX+%2B+SQL+%2B+Python;Data+%2B+AI+Analyst+%7C+Predictive+%26+BI+Analytics;A%2FB+Testing%2C+Power+Analysis+%26+Experimentation;RFM%2C+cohorts%2C+churn+%26+retail+analytics;Always+learning+%E2%80%94+always+shipping+projects)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,10 +27,13 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/DAX-1A1A1A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/A%2FB_Testing-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%2FML-6A1B9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -45,15 +48,26 @@
 
 - 📊 Junior Data & AI Analyst turning messy raw data into dashboards, models, and decisions
 - 🧰 Comfortable across the full stack: **SQL → Python/Pandas → DAX → Power BI**
+- 🧪 Building experimentation depth: pre-registered A/B tests, power analysis, CUPED variance reduction, and statistical-calibration proofs (not just p-values on faith) — see [kyc-onboarding-ab-test](https://github.com/DatawithRS/kyc-onboarding-ab-test)
 - 🛒 Focus areas: retail & e-commerce analytics, HR analytics, customer RFM/cohort/churn analysis
 - 🤖 Applied AI/ML: churn prediction models and CNN-based image classification (Keras/TensorFlow)
 - 🌱 Currently sharpening data modeling, DAX performance, and end-to-end BI + ML pipelines
-- 💬 Ask me about Power BI data modeling, DAX measures, or cohort/RFM analysis
+- 💬 Ask me about Power BI data modeling, DAX measures, A/B test design, or cohort/RFM analysis
 - 📌 Every repo below is a real, self-contained project — not a tutorial clone
 
 ---
 
 ### 📌 Featured projects
+
+**🧪 [kyc-onboarding-ab-test](https://github.com/DatawithRS/kyc-onboarding-ab-test)** — A/B test: redesigned KYC onboarding flow
+[![CI](https://github.com/DatawithRS/kyc-onboarding-ab-test/actions/workflows/ci.yml/badge.svg)](https://github.com/DatawithRS/kyc-onboarding-ab-test/actions/workflows/ci.yml)
+<br/>Pre-registered hypothesis and decision rule, power analysis, a simulated A/A test proving the significance test is actually calibrated (not just trusted on faith), CUPED variance reduction, Benjamini-Hochberg correction across the primary/guardrail/segment tests, a guardrail trade-off, and a €/year business-impact estimate — with CI that regenerates the data and re-runs the whole analysis on every push.
+<br/>`Python` `Statistics` `A/B Testing` `pytest` `GitHub Actions`
+
+<p>
+<img src="https://raw.githubusercontent.com/DatawithRS/kyc-onboarding-ab-test/master/chart_completion_rate.png" width="45%"/>
+<img src="https://raw.githubusercontent.com/DatawithRS/kyc-onboarding-ab-test/master/chart_by_age_band.png" width="45%"/>
+</p>
 
 <table>
 <tr>
@@ -80,6 +94,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [kyc-onboarding-ab-test](https://github.com/DatawithRS/kyc-onboarding-ab-test) | A/B test on a redesigned KYC onboarding flow — pre-registered, power-checked, calibration-proven, CUPED, CI-verified | `Python` `Statistics` `A/B Testing` `pytest` |
 | [multichannel-ecommerce-analytics](https://github.com/DatawithRS/multichannel-ecommerce-analytics) | End-to-end commercial analytics across 5 channels & 14 tables — SQL, Python (RFM, cohorts), Power BI | `SQL` `Python` `Power BI` |
 | [applied-ml-notebooks](https://github.com/DatawithRS/applied-ml-notebooks) | Telco customer churn analysis + plant leaf disease image classification | `Python` `TensorFlow` `ML` |
 | [chest-xray-pneumonia-cnn](https://github.com/DatawithRS/chest-xray-pneumonia-cnn) | CNN classifying chest X-rays as Normal vs. Pneumonia (Keras/TensorFlow) | `Deep Learning` `Computer Vision` |
