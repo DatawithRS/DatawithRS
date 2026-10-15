@@ -68,6 +68,20 @@
 
 ### 📌 Featured projects
 
+**📊 [analytics-dashboard-portfolio](https://github.com/DatawithRS/analytics-dashboard-portfolio)** — production BI dashboards shipped to operations & finance teams
+<br/>Two dashboards built end-to-end — data model → KPI definition → design → rollout. A **Partner Care escalation tracker** (1,344 cases, 525 accounts, 74 agents, 2023–2025) that shows service leads where cases stall, who raises them and which accounts are at churn risk; and a **warehouse cost-controlling dashboard** (€516M cost, 701M outbound items, 8 sites, 2 planning scenarios) that lets controllers trace a planning delta down to the site that caused it. Cross-filtered on year, month, calendar week, vendor and case owner.
+<br/>`Looker Studio` `Tableau` `SQL` `Salesforce` `KPI Design`
+
+<p>
+<img src="https://raw.githubusercontent.com/DatawithRS/analytics-dashboard-portfolio/main/assets/escalation-01-overview.png" width="100%"/>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/DatawithRS/analytics-dashboard-portfolio/main/assets/warehouse-hero.png" width="45%" align="top"/>
+<img src="https://raw.githubusercontent.com/DatawithRS/analytics-dashboard-portfolio/main/assets/escalation-02-reasons-and-source.png" width="45%" align="top"/>
+</p>
+
+<br/>
+
 **🧪 [kyc-onboarding-ab-test](https://github.com/DatawithRS/kyc-onboarding-ab-test)** — A/B test: redesigned KYC onboarding flow
 [![CI](https://github.com/DatawithRS/kyc-onboarding-ab-test/actions/workflows/ci.yml/badge.svg)](https://github.com/DatawithRS/kyc-onboarding-ab-test/actions/workflows/ci.yml)
 <br/>Pre-registered hypothesis and decision rule, power analysis, a simulated A/A test proving the significance test is actually calibrated (not just trusted on faith), CUPED variance reduction, Benjamini-Hochberg correction across the primary/guardrail/segment tests, a guardrail trade-off, and a €/year business-impact estimate — with CI that regenerates the data and re-runs the whole analysis on every push.
@@ -103,6 +117,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [analytics-dashboard-portfolio](https://github.com/DatawithRS/analytics-dashboard-portfolio) | Production BI dashboards: service escalation tracking (1,344 cases) and warehouse cost controlling (€516M, 8 sites) | `Looker Studio` `Tableau` `SQL` |
 | [multichannel-ecommerce-analytics](https://github.com/DatawithRS/multichannel-ecommerce-analytics) | End-to-end commercial analytics across 5 channels & 14 tables — SQL, Python (RFM, cohorts), Power BI | `SQL` `Python` `Power BI` |
 | [kyc-onboarding-ab-test](https://github.com/DatawithRS/kyc-onboarding-ab-test) | A/B test on a redesigned KYC onboarding flow — pre-registered, power-checked, calibration-proven, CUPED, CI-verified | `Python` `Statistics` `A/B Testing` `pytest` |
 | [applied-ml-notebooks](https://github.com/DatawithRS/applied-ml-notebooks) | Telco customer churn analysis + plant leaf disease image classification | `Python` `TensorFlow` `ML` |
