@@ -62,12 +62,12 @@ A **Partner Care escalation tracker** (1,344 cases, 525 accounts, 74 agents) sho
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [Retail Sales Performance Dashboard](https://github.com/DatawithRS/superstore-sales-dashboard-powerbi)
+### 🛒 [Retail Sales Performance Dashboard](https://github.com/DatawithRS/powerbi-sales-dashboard)
 Modeled **9,994 order lines** (5,009 orders, 2018–2021) in Power Query with DAX measures for sales, profit and discount. Tracks **$2.30M sales** and **$286K profit** (12.5% margin) and shows **+56% growth** from 2019 to 2021, led by the West region and Technology.
 
 `Power BI` `Power Query` `DAX` `Excel`
 
-<img src="https://raw.githubusercontent.com/DatawithRS/superstore-sales-dashboard-powerbi/main/dashboard.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/DatawithRS/powerbi-sales-dashboard/main/dashboard.png" width="100%"/>
 
 </td>
 </tr>
