@@ -11,30 +11,6 @@
 
 </div>
 
-## 🧑‍💻 `SELECT * FROM about_me;`
-
-```sql
-SELECT name, role, based_in, education, status
-FROM   data_people
-WHERE  github = 'DatawithRS';
-```
-
-| name | role | based_in | education | status |
-|:--|:--|:--|:--|:--|
-| **Rohit Shinde** | Data Analyst · AI & Machine Learning | Berlin, Germany 🇩🇪 | MSc Data Analytics, 2026 | ✅ Open to work · authorized to work full-time in Germany |
-
-I'm a recent **MSc Data Analytics** graduate (Berlin, 2026) with hands-on analyst experience in **SQL, Python and Power BI**. I take scattered, multi-source data, make it reliable, and turn it into dashboards and plain-language stories that non-technical teams can act on.
-
-- 🔗 **Consolidate:** SQL joins and aggregations across 10+ partner programs → **+25% data reliability**
-- 📊 **Visualize:** Power BI dashboards tracking **15–20 KPIs**, replacing fragmented ad hoc reporting with one trusted source
-- ⚙️ **Automate:** recurring SQL/Python reporting workflows → **30–40% less manual prep**
-- 🔍 **Investigate:** root-cause analysis that took Tesla QA to **99% defect-identification accuracy** and **30% faster resolution**
-- 🤖 **Accelerate:** AI tools (ChatGPT, Copilot, Copilot in Power BI) to speed up query writing, data cleaning and reporting
-
-## 📈 Impact in numbers
-
-<img src="assets/impact.svg" width="100%" alt="Impact in numbers"/>
-
 ## 🛠️ Toolkit
 
 | | |
