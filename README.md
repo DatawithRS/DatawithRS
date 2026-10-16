@@ -90,10 +90,6 @@ End-to-end commercial analytics on a 5-channel, 14-table dataset: SQL modeling, 
 
 </details>
 
-## 🗺️ The journey so far
-
-<img src="assets/timeline.svg" width="100%" alt="Career timeline"/>
-
 ## 📸 When I'm not querying
 
 🤝 NGO volunteering &nbsp;·&nbsp; ⚽ Outdoor & team sports &nbsp;·&nbsp; 📷 Street & travel photography &nbsp;·&nbsp; 🍳 Cooking &nbsp;·&nbsp; 🎶 Music & dance
