@@ -1,134 +1,182 @@
 <div align="center">
 
-<img src="assets/header-banner.png" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Rohit Shinde: Data Analyst | SQL | Python | Power BI | Data Visualization"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1100&color=3B9EFF&center=true&vCenter=true&width=640&lines=Data+Analyst+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI;I+turn+messy+multi-source+data+into+decisions;KPI+dashboards+leadership+actually+uses;Automating+the+boring+reports+away+(30%E2%80%9340%25+less+effort);MSc+Data+Analytics+%C2%B7+Berlin+2026;Open+to+Data+Analyst+roles+in+Germany)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/rohit-shinde-data/"><img src="https://img.shields.io/badge/LinkedIn-rohit--shinde--data-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rohitshindeit10@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-11324D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Based_in-Berlin,_Germany-1D3D63?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=DatawithRS&style=for-the-badge&color=3B9EFF&label=Profile+views"/>
 
 </div>
 
-<table align="center">
-<tr>
-<td width="160" align="center">
-<img src="https://api.dicebear.com/9.x/bottts-neutral/png?seed=DatawithRS&backgroundColor=0b1f3a,1b3a5c&radius=20" width="140" height="140" alt="DatawithRS avatar"/>
-</td>
-<td>
+## 🧑‍💻 `SELECT * FROM about_me;`
 
-<div align="center">
+```sql
+SELECT name, role, based_in, education, status
+FROM   data_people
+WHERE  github = 'DatawithRS';
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=C9A227&center=true&vCenter=true&width=560&lines=SQL+%2B+ETL+%2B+Power+BI+%2B+DAX;Portfolio+Data+Analyst+%7C+Private+Markets;SQL+Reconciliation%2C+ETL+%26+KPI+Reporting;Private+Equity+%26+Private+Capital+Markets;MSc+Data+Analytics+2026+%28Big+Data%2C+Stats%2C+ML%29)](https://git.io/typing-svg)
+| name | role | based_in | education | status |
+|:--|:--|:--|:--|:--|
+| **Rohit Shinde** | Data Analyst · Reporting & Dashboards | Berlin, Germany 🇩🇪 | MSc Data Analytics, 2026 | ✅ Open to work · authorized to work full-time in Germany |
 
-</div>
+I'm a recent **MSc Data Analytics** graduate (Berlin, 2026) with hands-on analyst experience in **SQL, Python and Power BI**. I take scattered, multi-source data, make it reliable, and turn it into dashboards and plain-language stories that non-technical teams can act on.
 
-</td>
-</tr>
-</table>
+- 🔗 **Consolidate:** SQL joins and aggregations across 10+ partner programs → **+25% data reliability**
+- 📊 **Visualize:** Power BI dashboards tracking **15–20 KPIs**, replacing fragmented ad hoc reporting with one trusted source
+- ⚙️ **Automate:** recurring SQL/Python reporting workflows → **30–40% less manual prep**
+- 🔍 **Investigate:** root-cause analysis that took Tesla QA to **99% defect-identification accuracy** and **30% faster resolution**
+- 🤖 **Accelerate:** AI tools (ChatGPT, Copilot, Copilot in Power BI) to speed up query writing, data cleaning and reporting
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-1A1A1A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ETL-11324D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## 📈 Impact in numbers
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/A%2FB_Testing-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-</p>
+<img src="assets/impact.svg" width="100%" alt="Impact in numbers"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohit-shinde-data/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rohitshindeit10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-11324D?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🛠️ Toolkit
 
-### 👋 About me
+| | |
+|:--|:--|
+| **Core analytics** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistical_Analysis-2563EB?style=flat-square) ![ETL](https://img.shields.io/badge/ETL_%26_Data_Cleaning-11324D?style=flat-square) |
+| **BI & visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-1A1A1A?style=flat-square) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white) ![SAP Analytics Cloud](https://img.shields.io/badge/SAP_Analytics_Cloud-0FAAFF?style=flat-square&logo=sap&logoColor=white) |
+| **Tools** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **ML (MSc & projects)** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-2563EB?style=flat-square) |
+| **AI assistants** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white) ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Copilot in Power BI](https://img.shields.io/badge/Copilot_in_Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| **Soft skills** | Stakeholder communication · Data storytelling · Attention to detail · Cross-functional collaboration · Adaptability |
 
-- 💼 Portfolio Data Analyst focused on **private markets & portfolio performance reporting** — tracked 15–20 KPIs across 10+ partner programs
-- 🧰 Full-stack reporting pipeline: **SQL (joins, aggregation, reconciliation) → ETL → Power BI / DAX** management dashboards
-- ✅ Reconciled partner-reported figures against source records with SQL validation queries, improving data reliability by **25%**
-- ⚙️ Automated recurring reporting with Python, Excel VBA and reusable SQL — cut manual preparation effort by **30–40%**
-- 🎓 MSc Data Analytics (Big Data, Statistical Modeling, Machine Learning, SQL & Database Management) — Berlin School of Business & Innovation, 2026
-- 🧪 Also building experimentation & ML depth: pre-registered A/B tests, power analysis, churn models, CNN-based image classification — see [kyc-onboarding-ab-test](https://github.com/DatawithRS/kyc-onboarding-ab-test)
-- 🌍 Domain focus: **private equity, private capital markets, corporate finance, financial statements**
-- 💬 Ask me about SQL reconciliation, Power BI/DAX data models, ETL workflows, or portfolio KPI reporting
-- 📌 Every repo below is a real, self-contained project — not a tutorial clone
-
----
-
-### 📌 Featured projects
-
-**📊 [analytics-dashboard-portfolio](https://github.com/DatawithRS/analytics-dashboard-portfolio)** — production BI dashboards shipped to operations & finance teams
-<br/>Two dashboards built end-to-end — data model → KPI definition → design → rollout. A **Partner Care escalation tracker** (1,344 cases, 525 accounts, 74 agents, 2023–2025) that shows service leads where cases stall, who raises them and which accounts are at churn risk; and a **warehouse cost-controlling dashboard** (€516M cost, 701M outbound items, 8 sites, 2 planning scenarios) that lets controllers trace a planning delta down to the site that caused it. Cross-filtered on year, month, calendar week, vendor and case owner.
-<br/>`Looker Studio` `Tableau` `SQL` `Salesforce` `KPI Design`
-
-<p>
-<img src="https://raw.githubusercontent.com/DatawithRS/analytics-dashboard-portfolio/main/assets/escalation-01-overview.png" width="100%"/>
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/DatawithRS/analytics-dashboard-portfolio/main/assets/warehouse-hero.png" width="45%" align="top"/>
-<img src="https://raw.githubusercontent.com/DatawithRS/analytics-dashboard-portfolio/main/assets/escalation-02-reasons-and-source.png" width="45%" align="top"/>
-</p>
-
-<br/>
-
-**🧪 [kyc-onboarding-ab-test](https://github.com/DatawithRS/kyc-onboarding-ab-test)** — A/B test: redesigned KYC onboarding flow
-[![CI](https://github.com/DatawithRS/kyc-onboarding-ab-test/actions/workflows/ci.yml/badge.svg)](https://github.com/DatawithRS/kyc-onboarding-ab-test/actions/workflows/ci.yml)
-<br/>Pre-registered hypothesis and decision rule, power analysis, a simulated A/A test proving the significance test is actually calibrated (not just trusted on faith), CUPED variance reduction, Benjamini-Hochberg correction across the primary/guardrail/segment tests, a guardrail trade-off, and a €/year business-impact estimate — with CI that regenerates the data and re-runs the whole analysis on every push.
-<br/>`Python` `Statistics` `A/B Testing` `pytest` `GitHub Actions`
-
-<p>
-<img src="https://raw.githubusercontent.com/DatawithRS/kyc-onboarding-ab-test/master/chart_completion_rate.png" width="45%"/>
-<img src="https://raw.githubusercontent.com/DatawithRS/kyc-onboarding-ab-test/master/chart_by_age_band.png" width="45%"/>
-</p>
+## 🚀 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[PowerBI-Sales-Analytics](https://github.com/DatawithRS/PowerBI-Sales-Analytics)**
-<br/>E-commerce sales analytics dashboard with customer/product/order data modeling
-<br/>`Power BI` `DAX`
+### 📊 [Analytics Dashboard Portfolio](https://github.com/DatawithRS/analytics-dashboard-portfolio)
+A **Partner Care escalation tracker** (1,344 cases, 525 accounts, 74 agents) showing where cases stall and which accounts are at churn risk, plus a **warehouse cost-controlling dashboard** (€516M cost, 8 sites) that traces a planning delta down to the site that caused it.
 
-<img src="https://raw.githubusercontent.com/DatawithRS/PowerBI-Sales-Analytics/main/screenshots/executive-overview.png" width="100%"/>
+`Looker Studio` `Tableau` `SQL` `KPI Design`
+
+<img src="https://raw.githubusercontent.com/DatawithRS/analytics-dashboard-portfolio/main/assets/escalation-01-overview.png" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
 
-**[superstore-sales-dashboard-powerbi](https://github.com/DatawithRS/superstore-sales-dashboard-powerbi)**
-<br/>Retail sales dashboard on the classic Superstore dataset
-<br/>`Power BI` `DAX`
+### 🛒 [Retail Sales Performance Dashboard](https://github.com/DatawithRS/superstore-sales-dashboard-powerbi)
+Modeled **9,994 order lines** (5,009 orders, 2018–2021) in Power Query with DAX measures for sales, profit and discount. Tracks **$2.30M sales** and **$286K profit** (12.5% margin) and shows **+56% growth** from 2019 to 2021, led by the West region and Technology.
+
+`Power BI` `Power Query` `DAX` `Excel`
 
 <img src="https://raw.githubusercontent.com/DatawithRS/superstore-sales-dashboard-powerbi/main/dashboard.png" width="100%"/>
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 [KYC Onboarding A/B Test](https://github.com/DatawithRS/kyc-onboarding-ab-test)
+[![CI](https://github.com/DatawithRS/kyc-onboarding-ab-test/actions/workflows/ci.yml/badge.svg)](https://github.com/DatawithRS/kyc-onboarding-ab-test/actions/workflows/ci.yml)
+<br/>Pre-registered hypothesis, power analysis, a simulated A/A calibration check, CUPED variance reduction, Benjamini-Hochberg correction, and a €/year impact estimate. CI re-runs the whole analysis on every push.
+
+`Python` `Statistics` `A/B Testing` `pytest`
+
+<img src="https://raw.githubusercontent.com/DatawithRS/kyc-onboarding-ab-test/master/chart_completion_rate.png" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ [Smart-City Energy Patterns (MSc Dissertation)](https://github.com/DatawithRS/mumbai-smart-city-energy-analysis)
+Identified household energy-usage patterns in Mumbai by combining a **101-respondent survey** with quantitative and thematic analysis, then turned the findings into practical recommendations for smart-city energy planning.
+
+`Mixed Methods` `Survey Design` `Statistics` `Python`
+
+<br/>
+
+### 🛍️ [Multichannel E-commerce Analytics](https://github.com/DatawithRS/multichannel-ecommerce-analytics)
+End-to-end commercial analytics on a 5-channel, 14-table dataset: SQL modeling, Python RFM segmentation and cohorts, and Power BI reporting.
+
+`SQL` `Python` `Power BI`
+
+</td>
+</tr>
 </table>
 
-| Project | What it does | Stack |
-|---|---|---|
-| [analytics-dashboard-portfolio](https://github.com/DatawithRS/analytics-dashboard-portfolio) | Production BI dashboards: service escalation tracking (1,344 cases) and warehouse cost controlling (€516M, 8 sites) | `Looker Studio` `Tableau` `SQL` |
-| [multichannel-ecommerce-analytics](https://github.com/DatawithRS/multichannel-ecommerce-analytics) | End-to-end commercial analytics across 5 channels & 14 tables — SQL, Python (RFM, cohorts), Power BI | `SQL` `Python` `Power BI` |
-| [kyc-onboarding-ab-test](https://github.com/DatawithRS/kyc-onboarding-ab-test) | A/B test on a redesigned KYC onboarding flow — pre-registered, power-checked, calibration-proven, CUPED, CI-verified | `Python` `Statistics` `A/B Testing` `pytest` |
-| [applied-ml-notebooks](https://github.com/DatawithRS/applied-ml-notebooks) | Telco customer churn analysis + plant leaf disease image classification | `Python` `TensorFlow` `ML` |
-| [pneumonia-detection-cv](https://github.com/DatawithRS/pneumonia-detection-cv) | CNN classifying chest X-rays as Normal vs. Pneumonia (Keras/TensorFlow) | `Deep Learning` `Computer Vision` |
-| [Clustered-HR-Data](https://github.com/DatawithRS/Clustered-HR-Data) | HR analytics dashboard tracking attrition, promotion & retrenchment risk | `Power BI` `DAX` |
-| [mumbai-smart-city-energy-analysis](https://github.com/DatawithRS/mumbai-smart-city-energy-analysis) | MSc dissertation: 101-respondent survey on household energy behavior in Mumbai — descriptive stats, correlation analysis, smart-city policy recommendations | `Statistics` `Survey Research` `Python` |
+<details>
+<summary><b>📂 More projects</b></summary>
+<br/>
 
----
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [PowerBI-Sales-Analytics](https://github.com/DatawithRS/PowerBI-Sales-Analytics) | E-commerce sales dashboard with customer, product and order data modeling | `Power BI` `DAX` |
+| [Clustered-HR-Data](https://github.com/DatawithRS/Clustered-HR-Data) | HR analytics dashboard tracking attrition, promotion and retrenchment risk | `Power BI` `DAX` |
+| [applied-ml-notebooks](https://github.com/DatawithRS/applied-ml-notebooks) | Telco customer churn analysis and plant leaf disease image classification | `Python` `TensorFlow` |
+| [pneumonia-detection-cv](https://github.com/DatawithRS/pneumonia-detection-cv) | CNN that classifies chest X-rays as Normal or Pneumonia | `Keras` `TensorFlow` |
+
+</details>
+
+## 🗺️ The journey so far
+
+<img src="assets/timeline.svg" width="100%" alt="Career timeline"/>
+
+## 🎓 Education, certifications & languages
+
+<table>
+<tr>
+<td width="34%" valign="top">
+
+**🎓 Education**
+
+**MSc Data Analytics**<br/>
+Berlin School of Business and Innovation<br/>
+<sub>05/2024 – 04/2026 · Data Visualization, Machine Learning, SQL & Databases, Big Data</sub>
+
+**BSc Information Technology**<br/>
+S.B. Vartak College of Science, Mumbai<br/>
+<sub>05/2019 – 04/2022 · Python, DBMS, Data Structures, Statistics, BI</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**📜 Certifications**
+
+🏅 Google Data Analytics Professional Certificate<br/>
+<sub>Google</sub>
+
+🏅 SAP Analytics Cloud<br/>
+<sub>SAP</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🗣️ Languages**
+
+🇬🇧 English: Fluent<br/>
+🇩🇪 German: B1<br/>
+🇮🇳 Hindi: Native<br/>
+🇮🇳 Marathi: Native
+
+</td>
+</tr>
+</table>
+
+## 📸 When I'm not querying
+
+🤝 NGO volunteering &nbsp;·&nbsp; ⚽ Outdoor & team sports &nbsp;·&nbsp; 📷 Street & travel photography &nbsp;·&nbsp; 🍳 Cooking &nbsp;·&nbsp; 🎶 Music & dance
+
+## 🐍 Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DatawithRS/DatawithRS/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DatawithRS/DatawithRS/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DatawithRS/DatawithRS/output/github-snake.svg"/>
+</picture>
 
 <div align="center">
 
-<img src="assets/footer-banner.png" width="100%"/>
+<br/>
+
+**💼 Hiring a Data Analyst in Germany?** I'd love to talk. [Connect on LinkedIn](https://www.linkedin.com/in/rohit-shinde-data/) or [send me an email](mailto:rohitshindeit10@gmail.com).
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
 
 </div>

@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Impact in numbers: 99% defect-identification accuracy, 30% faster resolution, 25% better data reliability, 30-40% less manual effort, 15-20 KPIs tracked, 20% more accurate flight-ops reporting">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10233f"/>
+      <stop offset="1" stop-color="#173257"/>
+    </linearGradient>
+    <linearGradient id="up" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3b9eff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3b9eff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="down" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#34d399" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2c811" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#f2c811" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif}
+    .mono{font-family:'Cascadia Code',Consolas,'SFMono-Regular',Menlo,'Courier New',monospace}
+    .card{opacity:0;animation:rise .8s cubic-bezier(.2,.8,.2,1) forwards}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    .spark{stroke-dasharray:200;stroke-dashoffset:200;animation:draw 1.4s ease-out forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .tag{font-size:12px;letter-spacing:1.5px;font-weight:600}
+    .num{font-size:46px;font-weight:800;fill:#ffffff}
+    .desc{font-size:14px;fill:#b8c8dd}
+    @media (prefers-reduced-motion: reduce){.card,.spark{animation:none;opacity:1;transform:none;stroke-dashoffset:0}}
+  </style>
+
+  <!-- Row 1 -->
+  <g transform="translate(20 20)">
+    <g class="card sans" style="animation-delay:.1s">
+      <rect width="374" height="170" rx="14" fill="url(#card)" stroke="#2a4f7c"/>
+      <text x="24" y="36" class="mono tag" fill="#f2c811">TESLA · QA</text>
+      <text x="22" y="94" class="num">99%</text>
+      <text x="24" y="126" class="desc">defect-identification</text>
+      <text x="24" y="146" class="desc">accuracy in production QA</text>
+      <g transform="translate(232 52)">
+        <path d="M0 58 L20 50 L40 54 L60 34 L80 30 L100 14 L120 6 L120 70 L0 70 Z" fill="url(#gold)"/>
+        <path class="spark" style="animation-delay:.6s" d="M0 58 L20 50 L40 54 L60 34 L80 30 L100 14 L120 6" fill="none" stroke="#f2c811" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="120" cy="6" r="4" fill="#f2c811"/>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(413 20)">
+    <g class="card sans" style="animation-delay:.25s">
+      <rect width="374" height="170" rx="14" fill="url(#card)" stroke="#2a4f7c"/>
+      <text x="24" y="36" class="mono tag" fill="#f2c811">TESLA · QA</text>
+      <text x="22" y="94" class="num">−30%</text>
+      <text x="24" y="126" class="desc">mean time to resolution</text>
+      <text x="24" y="146" class="desc">via root-cause analysis</text>
+      <g transform="translate(232 52)">
+        <path d="M0 8 L20 14 L40 10 L60 30 L80 28 L100 46 L120 60 L120 70 L0 70 Z" fill="url(#down)"/>
+        <path class="spark" style="animation-delay:.75s" d="M0 8 L20 14 L40 10 L60 30 L80 28 L100 46 L120 60" fill="none" stroke="#34d399" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="120" cy="60" r="4" fill="#34d399"/>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(806 20)">
+    <g class="card sans" style="animation-delay:.4s">
+      <rect width="374" height="170" rx="14" fill="url(#card)" stroke="#2a4f7c"/>
+      <text x="24" y="36" class="mono tag" fill="#7dd3fc">YUVA · SQL</text>
+      <text x="22" y="94" class="num">+25%</text>
+      <text x="24" y="126" class="desc">cross-program data</text>
+      <text x="24" y="146" class="desc">reliability, 10+ programs</text>
+      <g transform="translate(232 52)">
+        <path d="M0 60 L20 52 L40 56 L60 40 L80 42 L100 22 L120 10 L120 70 L0 70 Z" fill="url(#up)"/>
+        <path class="spark" style="animation-delay:.9s" d="M0 60 L20 52 L40 56 L60 40 L80 42 L100 22 L120 10" fill="none" stroke="#3b9eff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="120" cy="10" r="4" fill="#3b9eff"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(20 210)">
+    <g class="card sans" style="animation-delay:.55s">
+      <rect width="374" height="170" rx="14" fill="url(#card)" stroke="#2a4f7c"/>
+      <text x="24" y="36" class="mono tag" fill="#7dd3fc">YUVA · AUTOMATION</text>
+      <text x="22" y="92" class="num" style="font-size:38px">−30–40%</text>
+      <text x="24" y="126" class="desc">manual data-prep effort</text>
+      <text x="24" y="146" class="desc">with SQL + Python workflows</text>
+      <g transform="translate(232 52)">
+        <path d="M0 6 L20 10 L40 22 L60 20 L80 40 L100 52 L120 62 L120 70 L0 70 Z" fill="url(#down)"/>
+        <path class="spark" style="animation-delay:1.05s" d="M0 6 L20 10 L40 22 L60 20 L80 40 L100 52 L120 62" fill="none" stroke="#34d399" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="120" cy="62" r="4" fill="#34d399"/>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(413 210)">
+    <g class="card sans" style="animation-delay:.7s">
+      <rect width="374" height="170" rx="14" fill="url(#card)" stroke="#2a4f7c"/>
+      <text x="24" y="36" class="mono tag" fill="#7dd3fc">YUVA · POWER BI</text>
+      <text x="22" y="94" class="num">15–20</text>
+      <text x="24" y="126" class="desc">KPIs in one trusted</text>
+      <text x="24" y="146" class="desc">leadership dashboard</text>
+      <g transform="translate(232 52)">
+        <rect x="0"   y="44" width="14" height="26" rx="3" fill="#3b9eff" fill-opacity="0.45"/>
+        <rect x="21"  y="32" width="14" height="38" rx="3" fill="#3b9eff" fill-opacity="0.55"/>
+        <rect x="42"  y="38" width="14" height="32" rx="3" fill="#3b9eff" fill-opacity="0.6"/>
+        <rect x="63"  y="20" width="14" height="50" rx="3" fill="#3b9eff" fill-opacity="0.7"/>
+        <rect x="84"  y="26" width="14" height="44" rx="3" fill="#3b9eff" fill-opacity="0.8"/>
+        <rect x="105" y="6"  width="14" height="64" rx="3" fill="#3b9eff"/>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(806 210)">
+    <g class="card sans" style="animation-delay:.85s">
+      <rect width="374" height="170" rx="14" fill="url(#card)" stroke="#2a4f7c"/>
+      <text x="24" y="36" class="mono tag" fill="#c4b5fd">BATIVALA · FLIGHT OPS</text>
+      <text x="22" y="94" class="num">+20%</text>
+      <text x="24" y="126" class="desc">reporting accuracy across</text>
+      <text x="24" y="146" class="desc">50+ aircraft &amp; routes</text>
+      <g transform="translate(232 52)">
+        <path d="M0 56 L20 58 L40 44 L60 46 L80 30 L100 26 L120 12 L120 70 L0 70 Z" fill="url(#up)"/>
+        <path class="spark" style="animation-delay:1.35s" d="M0 56 L20 58 L40 44 L60 46 L80 30 L100 26 L120 12" fill="none" stroke="#c4b5fd" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="120" cy="12" r="4" fill="#c4b5fd"/>
+      </g>
+    </g>
+  </g>
+</svg>

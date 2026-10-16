@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Thanks for stopping by. Let's turn data into decisions.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1628"/>
+      <stop offset="1" stop-color="#173257"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="140" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif}
+    .w1{animation:slide 9s linear infinite}
+    .w2{animation:slide 6s linear infinite reverse}
+    @keyframes slide{from{transform:translateX(0)}to{transform:translateX(-300px)}}
+    @media (prefers-reduced-motion: reduce){.w1,.w2{animation:none}}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="140" fill="url(#bg)"/>
+    <text x="600" y="50" class="sans" text-anchor="middle" fill="#e2ebf6" font-size="20" font-weight="600">Thanks for stopping by. Let's turn data into decisions.</text>
+    <path class="w1" d="M0 100 Q75 82 150 100 T300 100 T450 100 T600 100 T750 100 T900 100 T1050 100 T1200 100 T1350 100 T1500 100 V140 H0 Z" fill="#3b9eff" fill-opacity="0.35"/>
+    <path class="w2" d="M0 112 Q75 128 150 112 T300 112 T450 112 T600 112 T750 112 T900 112 T1050 112 T1200 112 T1350 112 T1500 112 V140 H0 Z" fill="#f2c811" fill-opacity="0.55"/>
+  </g>
+</svg>

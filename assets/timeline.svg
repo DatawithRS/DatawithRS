@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Career timeline: BSc IT 2019-2022, Data Analytics Intern at Bativala Flying Charters 2022, Data Analyst at Yuva Unstoppable 2022-2024, MSc Data Analytics Berlin 2024-2026, Production Associate at Tesla Berlin 2025-2026, next: Data Analyst role">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1628"/>
+      <stop offset="1" stop-color="#173257"/>
+    </linearGradient>
+    <linearGradient id="track" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b9eff"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif}
+    .mono{font-family:'Cascadia Code',Consolas,'SFMono-Regular',Menlo,'Courier New',monospace}
+    .track{stroke-dasharray:760;stroke-dashoffset:760;animation:draw 2s ease-out .2s forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .node{transform-box:fill-box;transform-origin:center;transform:scale(0);animation:pop .5s cubic-bezier(.3,1.6,.5,1) forwards}
+    @keyframes pop{to{transform:scale(1)}}
+    .label{opacity:0;animation:fade .7s ease-out forwards}
+    @keyframes fade{to{opacity:1}}
+    .ring{transform-box:fill-box;transform-origin:center;animation:ring 2s ease-out 2.6s infinite;opacity:0}
+    @keyframes ring{0%{transform:scale(1);opacity:.9}100%{transform:scale(2.6);opacity:0}}
+    .date{font-size:13px;font-weight:600}
+    .role{font-size:16px;font-weight:700;fill:#ffffff}
+    .org{font-size:13px;fill:#9fb3cc}
+    @media (prefers-reduced-motion: reduce){.track,.node,.label,.ring{animation:none;opacity:1;transform:none;stroke-dashoffset:0}.ring{opacity:0}}
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+
+    <line x1="60" y1="150" x2="870" y2="150" stroke="#ffffff" stroke-opacity="0.08" stroke-width="4"/>
+    <line class="track" x1="110" y1="150" x2="870" y2="150" stroke="url(#track)" stroke-width="4" stroke-linecap="round"/>
+    <line class="label" style="animation-delay:2.2s" x1="884" y1="150" x2="1056" y2="150" stroke="#f2c811" stroke-width="3" stroke-dasharray="6 8" stroke-linecap="round"/>
+
+    <g class="sans" text-anchor="middle">
+      <!-- 0: BSc (above) -->
+      <circle class="node" style="animation-delay:.2s" cx="130" cy="150" r="10" fill="#0a1628" stroke="#3b9eff" stroke-width="4"/>
+      <g class="label" style="animation-delay:.35s">
+        <text x="130" y="78" class="mono date" fill="#7dd3fc">2019 – 2022</text>
+        <text x="130" y="102" class="role">BSc Information Technology</text>
+        <text x="130" y="122" class="org">S.B. Vartak College · Mumbai</text>
+      </g>
+
+      <!-- 1: Intern (below) -->
+      <circle class="node" style="animation-delay:.55s" cx="315" cy="150" r="10" fill="#0a1628" stroke="#3b9eff" stroke-width="4"/>
+      <g class="label" style="animation-delay:.7s">
+        <text x="315" y="190" class="mono date" fill="#7dd3fc">01/2022 – 06/2022</text>
+        <text x="315" y="214" class="role">Data Analytics Intern</text>
+        <text x="315" y="234" class="org">Bativala Flying Charters · Mumbai</text>
+      </g>
+
+      <!-- 2: Data Analyst (above) -->
+      <circle class="node" style="animation-delay:.9s" cx="500" cy="150" r="10" fill="#0a1628" stroke="#3b9eff" stroke-width="4"/>
+      <g class="label" style="animation-delay:1.05s">
+        <text x="500" y="78" class="mono date" fill="#7dd3fc">08/2022 – 04/2024</text>
+        <text x="500" y="102" class="role">Data Analyst</text>
+        <text x="500" y="122" class="org">Yuva Unstoppable · Mumbai</text>
+      </g>
+
+      <!-- 3: MSc (below) -->
+      <circle class="node" style="animation-delay:1.25s" cx="685" cy="150" r="10" fill="#0a1628" stroke="#7dd3fc" stroke-width="4"/>
+      <g class="label" style="animation-delay:1.4s">
+        <text x="685" y="190" class="mono date" fill="#7dd3fc">05/2024 – 04/2026</text>
+        <text x="685" y="214" class="role">MSc Data Analytics</text>
+        <text x="685" y="234" class="org">BSBI · Berlin</text>
+      </g>
+
+      <!-- 4: Tesla (above) -->
+      <circle class="node" style="animation-delay:1.6s" cx="870" cy="150" r="10" fill="#0a1628" stroke="#7dd3fc" stroke-width="4"/>
+      <g class="label" style="animation-delay:1.75s">
+        <text x="870" y="78" class="mono date" fill="#7dd3fc">10/2025 – 02/2026</text>
+        <text x="870" y="102" class="role">Production Associate · QA</text>
+        <text x="870" y="122" class="org">Tesla · Berlin</text>
+      </g>
+
+      <!-- 5: Next (below) -->
+      <circle class="ring" cx="1070" cy="150" r="12" fill="none" stroke="#f2c811" stroke-width="3"/>
+      <circle class="node" style="animation-delay:2.3s" cx="1070" cy="150" r="12" fill="#f2c811"/>
+      <g class="label" style="animation-delay:2.45s">
+        <text x="1070" y="190" class="mono date" fill="#f2c811">NEXT →</text>
+        <text x="1070" y="214" class="role">Data Analyst @ your team?</text>
+        <text x="1070" y="234" class="org">Open to roles across Germany</text>
+      </g>
+    </g>
+  </g>
+</svg>
