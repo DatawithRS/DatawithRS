@@ -94,47 +94,6 @@ End-to-end commercial analytics on a 5-channel, 14-table dataset: SQL modeling, 
 
 <img src="assets/timeline.svg" width="100%" alt="Career timeline"/>
 
-## 🎓 Education, certifications & languages
-
-<table>
-<tr>
-<td width="34%" valign="top">
-
-**🎓 Education**
-
-**MSc Data Analytics**<br/>
-Berlin School of Business and Innovation<br/>
-<sub>05/2024 – 04/2026 · Data Visualization, Machine Learning, SQL & Databases, Big Data</sub>
-
-**BSc Information Technology**<br/>
-S.B. Vartak College of Science, Mumbai<br/>
-<sub>05/2019 – 04/2022 · Python, DBMS, Data Structures, Statistics, BI</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**📜 Certifications**
-
-🏅 Google Data Analytics Professional Certificate<br/>
-<sub>Google</sub>
-
-🏅 SAP Analytics Cloud<br/>
-<sub>SAP</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**🗣️ Languages**
-
-🇬🇧 English: Fluent<br/>
-🇩🇪 German: B1<br/>
-🇮🇳 Hindi: Native<br/>
-🇮🇳 Marathi: Native
-
-</td>
-</tr>
-</table>
-
 ## 📸 When I'm not querying
 
 🤝 NGO volunteering &nbsp;·&nbsp; ⚽ Outdoor & team sports &nbsp;·&nbsp; 📷 Street & travel photography &nbsp;·&nbsp; 🍳 Cooking &nbsp;·&nbsp; 🎶 Music & dance
