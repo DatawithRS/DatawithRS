@@ -4,11 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1100&color=3B9EFF&center=true&vCenter=true&width=640&lines=Data+Analyst+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI;AI+%26+Machine+Learning+%7C+scikit-learn+%C2%B7+TensorFlow+%C2%B7+Copilot;I+turn+messy+multi-source+data+into+decisions;KPI+dashboards+leadership+actually+uses;Automating+the+boring+reports+away+(30%E2%80%9340%25+less+effort);MSc+Data+Analytics+%C2%B7+Berlin+2026;Open+to+Data+Analyst+roles+in+Germany)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/rohit-shinde-data/"><img src="https://img.shields.io/badge/LinkedIn-rohit--shinde--data-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:rohitshindeit10@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-11324D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Based_in-Berlin,_Germany-1D3D63?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=DatawithRS&style=for-the-badge&color=3B9EFF&label=Profile+views"/>
-
 </div>
 
 ## 🛠️ Toolkit
