@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Rohit Shinde: Data Analyst | AI Data Analyst | SQL | Python | Power BI | Data Visualization"/>
+<img src="assets/header.svg" width="100%" alt="Rohit Shinde: Data Analyst | AI &amp; Machine Learning | SQL | Python | Power BI | Data Visualization"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1100&color=3B9EFF&center=true&vCenter=true&width=640&lines=Data+Analyst+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI;AI+Data+Analyst+%7C+ChatGPT+%C2%B7+Copilot+%C2%B7+Copilot+in+Power+BI;I+turn+messy+multi-source+data+into+decisions;KPI+dashboards+leadership+actually+uses;Automating+the+boring+reports+away+(30%E2%80%9340%25+less+effort);MSc+Data+Analytics+%C2%B7+Berlin+2026;Open+to+Data+Analyst+roles+in+Germany)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1100&color=3B9EFF&center=true&vCenter=true&width=640&lines=Data+Analyst+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI;AI+%26+Machine+Learning+%7C+scikit-learn+%C2%B7+TensorFlow+%C2%B7+Copilot;I+turn+messy+multi-source+data+into+decisions;KPI+dashboards+leadership+actually+uses;Automating+the+boring+reports+away+(30%E2%80%9340%25+less+effort);MSc+Data+Analytics+%C2%B7+Berlin+2026;Open+to+Data+Analyst+roles+in+Germany)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/rohit-shinde-data/"><img src="https://img.shields.io/badge/LinkedIn-rohit--shinde--data-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rohitshindeit10@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-11324D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -21,7 +21,7 @@ WHERE  github = 'DatawithRS';
 
 | name | role | based_in | education | status |
 |:--|:--|:--|:--|:--|
-| **Rohit Shinde** | Data Analyst · AI Data Analyst | Berlin, Germany 🇩🇪 | MSc Data Analytics, 2026 | ✅ Open to work · authorized to work full-time in Germany |
+| **Rohit Shinde** | Data Analyst · AI & Machine Learning | Berlin, Germany 🇩🇪 | MSc Data Analytics, 2026 | ✅ Open to work · authorized to work full-time in Germany |
 
 I'm a recent **MSc Data Analytics** graduate (Berlin, 2026) with hands-on analyst experience in **SQL, Python and Power BI**. I take scattered, multi-source data, make it reliable, and turn it into dashboards and plain-language stories that non-technical teams can act on.
 
