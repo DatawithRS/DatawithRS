@@ -101,7 +101,7 @@ End-to-end commercial analytics on a 5-channel, 14-table dataset: SQL modeling, 
 
 <br/>
 
-**💼 Hiring a Data Analyst in Germany?** I'd love to talk. [Connect on LinkedIn](https://www.linkedin.com/in/rohit-shinde-data/) or [send me an email](mailto:rohitshindeit10@gmail.com).
+**💼 Hiring a Data Analyst in Germany?** I'd love to talk. [Connect on LinkedIn](https://www.linkedin.com/in/rohit-shinde-data/) or [send me an email](mailto:rohitshinde.analyst@gmail.com).
 
 <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
 
